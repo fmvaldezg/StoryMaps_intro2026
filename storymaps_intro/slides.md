@@ -129,12 +129,10 @@ layout: cover
       allowfullscreen 
       allow="autoplay">
     </iframe>
-    <div class="absolute top-4 left-4 bg-black bg-opacity-70 px-4 py-2 rounded">
-      <h2 class="text-2xl font-bold text-white">Chapter 1: Access StoryMaps</h2>
-    </div>
   </div>
-  <div class="p-4 text-center bg-gray-900 bg-opacity-80">
-    <a @click="$slidev.nav.go(2)" class="px-6 py-2 rounded text-white font-semibold inline-block cursor-pointer transition-all" style="background: linear-gradient(135deg, rgb(164, 30, 53) 0%, rgb(149, 56, 71) 100%);">
+  <div class="p-4 bg-gray-900 bg-opacity-80 flex items-center justify-between">
+    <h2 class="text-xl font-bold text-white">Chapter 1: Access StoryMaps</h2>
+    <a @click="$slidev.nav.go(2)" class="px-6 py-2 rounded text-white font-semibold cursor-pointer transition-all" style="background: linear-gradient(135deg, rgb(164, 30, 53) 0%, rgb(149, 56, 71) 100%);">
       ← Back to Menu
     </a>
   </div>
@@ -153,12 +151,10 @@ layout: cover
       allowfullscreen 
       allow="autoplay">
     </iframe>
-    <div class="absolute top-4 left-4 bg-black bg-opacity-70 px-4 py-2 rounded">
-      <h2 class="text-2xl font-bold text-white">Chapter 2: Create your first StoryMap</h2>
-    </div>
   </div>
-  <div class="p-4 text-center bg-gray-900 bg-opacity-80">
-    <a @click="$slidev.nav.go(2)" class="px-6 py-2 rounded text-white font-semibold inline-block cursor-pointer transition-all" style="background: linear-gradient(135deg, rgb(164, 30, 53) 0%, rgb(149, 56, 71) 100%);">
+  <div class="p-4 bg-gray-900 bg-opacity-80 flex items-center justify-between">
+    <h2 class="text-xl font-bold text-white">Chapter 2: Create your first StoryMap</h2>
+    <a @click="$slidev.nav.go(2)" class="px-6 py-2 rounded text-white font-semibold cursor-pointer transition-all" style="background: linear-gradient(135deg, rgb(164, 30, 53) 0%, rgb(149, 56, 71) 100%);">
       ← Back to Menu
     </a>
   </div>
@@ -177,12 +173,10 @@ layout: cover
       allowfullscreen 
       allow="autoplay">
     </iframe>
-    <div class="absolute top-4 left-4 bg-black bg-opacity-70 px-4 py-2 rounded">
-      <h2 class="text-2xl font-bold text-white">Chapter 3: Adding a Map</h2>
-    </div>
   </div>
-  <div class="p-4 text-center bg-gray-900 bg-opacity-80">
-    <a @click="$slidev.nav.go(2)" class="px-6 py-2 rounded text-white font-semibold inline-block cursor-pointer transition-all" style="background: linear-gradient(135deg, rgb(164, 30, 53) 0%, rgb(149, 56, 71) 100%);">
+  <div class="p-4 bg-gray-900 bg-opacity-80 flex items-center justify-between">
+    <h2 class="text-xl font-bold text-white">Chapter 3: Adding a Map</h2>
+    <a @click="$slidev.nav.go(2)" class="px-6 py-2 rounded text-white font-semibold cursor-pointer transition-all" style="background: linear-gradient(135deg, rgb(164, 30, 53) 0%, rgb(149, 56, 71) 100%);">
       ← Back to Menu
     </a>
   </div>
@@ -201,12 +195,10 @@ layout: cover
       allowfullscreen 
       allow="autoplay">
     </iframe>
-    <div class="absolute top-4 left-4 bg-black bg-opacity-70 px-4 py-2 rounded">
-      <h2 class="text-2xl font-bold text-white">Chapter 4: Adding a Sidecar</h2>
-    </div>
   </div>
-  <div class="p-4 text-center bg-gray-900 bg-opacity-80">
-    <a @click="$slidev.nav.go(2)" class="px-6 py-2 rounded text-white font-semibold inline-block cursor-pointer transition-all" style="background: linear-gradient(135deg, rgb(164, 30, 53) 0%, rgb(149, 56, 71) 100%);">
+  <div class="p-4 bg-gray-900 bg-opacity-80 flex items-center justify-between">
+    <h2 class="text-xl font-bold text-white">Chapter 4: Adding a Sidecar</h2>
+    <a @click="$slidev.nav.go(2)" class="px-6 py-2 rounded text-white font-semibold cursor-pointer transition-all" style="background: linear-gradient(135deg, rgb(164, 30, 53) 0%, rgb(149, 56, 71) 100%);">
       ← Back to Menu
     </a>
   </div>
@@ -225,12 +217,10 @@ layout: cover
       allowfullscreen 
       allow="autoplay">
     </iframe>
-    <div class="absolute top-4 left-4 bg-black bg-opacity-70 px-4 py-2 rounded">
-      <h2 class="text-2xl font-bold text-white">Chapter 5: Adding a Map Tour</h2>
-    </div>
   </div>
-  <div class="p-4 text-center bg-gray-900 bg-opacity-80">
-    <a @click="$slidev.nav.go(2)" class="px-6 py-2 rounded text-white font-semibold inline-block cursor-pointer transition-all" style="background: linear-gradient(135deg, rgb(164, 30, 53) 0%, rgb(149, 56, 71) 100%);">
+  <div class="p-4 bg-gray-900 bg-opacity-80 flex items-center justify-between">
+    <h2 class="text-xl font-bold text-white">Chapter 5: Adding a Map Tour</h2>
+    <a @click="$slidev.nav.go(2)" class="px-6 py-2 rounded text-white font-semibold cursor-pointer transition-all" style="background: linear-gradient(135deg, rgb(164, 30, 53) 0%, rgb(149, 56, 71) 100%);">
       ← Back to Menu
     </a>
   </div>
@@ -249,12 +239,10 @@ layout: cover
       allowfullscreen 
       allow="autoplay">
     </iframe>
-    <div class="absolute top-4 left-4 bg-black bg-opacity-70 px-4 py-2 rounded">
-      <h2 class="text-2xl font-bold text-white">Chapter 6: Publishing and sharing</h2>
-    </div>
   </div>
-  <div class="p-4 text-center bg-gray-900 bg-opacity-80">
-    <a @click="$slidev.nav.go(2)" class="px-6 py-2 rounded text-white font-semibold inline-block cursor-pointer transition-all" style="background: linear-gradient(135deg, rgb(164, 30, 53) 0%, rgb(149, 56, 71) 100%);">
+  <div class="p-4 bg-gray-900 bg-opacity-80 flex items-center justify-between">
+    <h2 class="text-xl font-bold text-white">Chapter 6: Publishing and sharing</h2>
+    <a @click="$slidev.nav.go(2)" class="px-6 py-2 rounded text-white font-semibold cursor-pointer transition-all" style="background: linear-gradient(135deg, rgb(164, 30, 53) 0%, rgb(149, 56, 71) 100%);">
       ← Back to Menu
     </a>
   </div>
@@ -273,12 +261,10 @@ layout: cover
       allowfullscreen 
       allow="autoplay">
     </iframe>
-    <div class="absolute top-4 left-4 bg-black bg-opacity-70 px-4 py-2 rounded">
-      <h2 class="text-2xl font-bold text-white">Chapter 7: Custom design</h2>
-    </div>
   </div>
-  <div class="p-4 text-center bg-gray-900 bg-opacity-80">
-    <a @click="$slidev.nav.go(2)" class="px-6 py-2 rounded text-white font-semibold inline-block cursor-pointer transition-all" style="background: linear-gradient(135deg, rgb(164, 30, 53) 0%, rgb(149, 56, 71) 100%);">
+  <div class="p-4 bg-gray-900 bg-opacity-80 flex items-center justify-between">
+    <h2 class="text-xl font-bold text-white">Chapter 7: Custom design</h2>
+    <a @click="$slidev.nav.go(2)" class="px-6 py-2 rounded text-white font-semibold cursor-pointer transition-all" style="background: linear-gradient(135deg, rgb(164, 30, 53) 0%, rgb(149, 56, 71) 100%);">
       ← Back to Menu
     </a>
   </div>
