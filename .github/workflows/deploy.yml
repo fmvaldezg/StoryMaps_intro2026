@@ -46,12 +46,12 @@ jobs:
         </script>
         '''
         
-        with open('./QGIS_intro2026/dist/index.html', 'r') as f:
+        with open('./storymaps_intro/dist/index.html', 'r') as f:
             content = f.read()
         
         content = content.replace('</head>', analytics_code + '</head>')
         
-        with open('./QGIS_intro2026/dist/index.html', 'w') as f:
+        with open('./storymaps_intro/dist/index.html', 'w') as f:
             f.write(content)
         
         print("Analytics code added successfully")
