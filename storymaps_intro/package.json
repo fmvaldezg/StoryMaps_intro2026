@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build --base /storymaps_intro/",
+    "build": "slidev build --base /StoryMaps_intro2026/",
     "dev": "slidev --open",
     "export": "slidev export"
   },
