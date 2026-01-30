@@ -64,6 +64,20 @@ layout: two-cols
 
 Select a chapter to begin learning
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+More Resources:
+
+- [ArcGIS StoryMaps Tutorials](https://storymaps.arcgis.com/collections/d34681ac0d1a417894a3a3d955c6913f)
+- [Nine steps to great storytelling](https://storymaps.arcgis.com/stories/429bc4eed5f145109e603c9711a33407)
+- [2025 ArcGIS StoryMaps Favorites](https://storymaps.arcgis.com/collections/a3f5e00deebc491dafdaccecb00b45e3)
+
 ::right::
 
 <div class="grid grid-cols-1 gap-2 pr-4 mt-[-1rem]">
